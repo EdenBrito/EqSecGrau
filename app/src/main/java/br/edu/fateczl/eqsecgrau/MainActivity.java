@@ -1,3 +1,8 @@
+/*
+    Nome:   Éden Vieira Brito
+    RA:     1110482213006
+*/
+
 package br.edu.fateczl.eqsecgrau;
 
 import static java.lang.Math.sqrt;
